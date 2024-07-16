@@ -1,0 +1,1 @@
+setx /m PATH "C:\ffmpeg\bin;%PATH%"
